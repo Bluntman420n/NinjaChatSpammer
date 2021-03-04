@@ -11,6 +11,8 @@ Please only download one of the files they are the same thing just made it for w
 2. VERY SMALL
 3. HAS A HELP BUTTON
 4. Has Key Spammer
+5. Has Auto Clicker
+6. Has Help in EXE.
     
 
 **MORE UPDATES COMING SOON**
