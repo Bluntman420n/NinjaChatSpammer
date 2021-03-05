@@ -6,6 +6,8 @@ Please only download one of the files they are the same thing just made it for w
 
 **NEW CHAT SPAMMER**   
     
+<img src="https://raw.githubusercontent.com/Bluntman420n/NinjaChatSpammer/main/Pics/Warning.PNG">
+    
 **ADD TO EXCLUSIONS WINDOWS DEFENDER WILL DETECTED IT IDK WHY YET BUT WILL FIX IT.**
 
 **Here is some proof of it being safe.**
