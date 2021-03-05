@@ -23,6 +23,7 @@ Please only download one of the files they are the same thing just made it for w
 4. Has Key Spammer
 5. Has Auto Clicker
 6. Has Help in EXE.
+7. Has CPS Tester
     
 
 **MORE UPDATES COMING SOON**
