@@ -24,6 +24,7 @@ Please only download one of the files they are the same thing just made it for w
 5. Has Auto Clicker
 6. Has Help in EXE.
 7. Has CPS Tester
+8. Game Chat Spammer
     
 
 **MORE UPDATES COMING SOON**
