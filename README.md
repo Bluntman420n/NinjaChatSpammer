@@ -25,6 +25,7 @@ Please only download one of the files they are the same thing just made it for w
 6. Has Help in EXE.
 7. Has CPS Tester
 8. Game Chat Spammer
+9. AFK Button Spammer
     
 
 **MORE UPDATES COMING SOON**
